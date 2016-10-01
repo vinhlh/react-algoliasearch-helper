@@ -1,6 +1,6 @@
 {
-  "name": "react-algoliasearch-helper",
-  "version": "1.2.1",
+  "name": "react-algoliasearch-helper-vl",
+  "version": "1.0.0",
   "description": "React `<Provider helper>` and `connect()(WrappedComponent)` for algoliasearch-helper",
   "scripts": {
     "start": "webpack-dev-server --config webpack.config.dev.babel.js",
@@ -16,7 +16,7 @@
     "react",
     "helper"
   ],
-  "author": "Algolia (https://www.algolia.com)",
+  "author": "Vinh Le <vinh.rocks@icloud.com>",
   "license": "MIT",
   "devDependencies": {
     "algoliasearch": "^3.18.1",
